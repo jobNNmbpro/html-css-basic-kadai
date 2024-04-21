@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+#one{
+    height: auto;
+    background-color: yellow;
+}
+#two{
+    height: auto;
+    max-height: 100px;
+    background-color: orange;
+}
+/*
+#three{
+    height: auto;
+    min-height: 100px;
+    background-color: pink;
+}
+*/
+/*
+.parent{
+    width: auto;
+    background-color: yellow;
+}
+.child{
+    width: 80%;
+    max-width: 600px;
+    background-color: orange;
+}
+*/
